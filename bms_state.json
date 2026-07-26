@@ -80,22 +80,6 @@
       "price": "96.74",
       "status": "2"
     },
-    "PBRM|23581|20260730|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "04:20 PM",
-      "date": "20260730",
-      "cat": "ELITE",
-      "price": "245.98",
-      "status": "2"
-    },
-    "PBRM|23581|20260730|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "04:20 PM",
-      "date": "20260730",
-      "cat": "BUDGET",
-      "price": "96.74",
-      "status": "3"
-    },
     "PVHC|30490|20260730|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
       "time": "03:40 PM",
@@ -111,6 +95,22 @@
       "cat": "CLASSIC",
       "price": "96.74",
       "status": "1"
+    },
+    "PBRM|23581|20260730|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "04:20 PM",
+      "date": "20260730",
+      "cat": "ELITE",
+      "price": "245.98",
+      "status": "2"
+    },
+    "PBRM|23581|20260730|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "04:20 PM",
+      "date": "20260730",
+      "cat": "BUDGET",
+      "price": "96.74",
+      "status": "3"
     }
   },
   "dates": {
