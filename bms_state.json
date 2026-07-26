@@ -22,7 +22,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39791|20260730|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -86,7 +86,7 @@
       "date": "20260730",
       "cat": "ELITE",
       "price": "245.98",
-      "status": "1"
+      "status": "2"
     },
     "PBRM|23581|20260730|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
