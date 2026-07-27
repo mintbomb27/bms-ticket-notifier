@@ -6,7 +6,7 @@
       "date": "20260730",
       "cat": "NORMAL",
       "price": "101.74",
-      "status": "0"
+      "status": "1"
     },
     "CBMC|10094|20260730|EXECUTIVE": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -38,7 +38,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39786|20260730|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -54,7 +54,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "2"
+      "status": "1"
     },
     "PVHR|39791|20260730|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -70,7 +70,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39787|20260730|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -102,7 +102,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "2"
+      "status": "1"
     },
     "PVHR|39788|20260730|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -118,7 +118,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "PGMV|20955|20260730|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -198,7 +198,7 @@
       "date": "20260730",
       "cat": "Club",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "INCH|79362|20260730|Executive": {
       "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
@@ -206,7 +206,7 @@
       "date": "20260730",
       "cat": "Executive",
       "price": "96.74",
-      "status": "0"
+      "status": "1"
     },
     "PBRM|23581|20260730|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
